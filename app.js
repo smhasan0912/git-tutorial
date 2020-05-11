@@ -1,10 +1,10 @@
 console.log('VS-Code is owsame !')
 
-function greating(name){
-    console.log(`Wellcome ! ${name}`)
+function display(){
+    console.log('Hello Hello ')
 }
 
-greating('SM Hasan')
+display('SM Hasan')
 
 function sqr(n){
     return n*n
