@@ -5,3 +5,7 @@ function greating(name){
 }
 
 greating('SM Hasan')
+
+function sqr(n){
+    return n*n
+}
