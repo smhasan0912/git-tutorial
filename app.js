@@ -1,7 +1,7 @@
 console.log('VS-Code is owsame !')
 
 function greating(name){
-    console.log(`Hello ! ${name}`)
+    console.log(`Wellcome ! ${name}`)
 }
 
 greating('SM Hasan')
